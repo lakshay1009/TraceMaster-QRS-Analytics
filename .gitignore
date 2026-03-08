@@ -1,0 +1,13 @@
+# Data folders
+ptb-xl/
+records500/
+
+# Scipy/Matlab data files
+*.mat
+*.dat
+*.hea
+
+# Python environment/cache
+__pycache__/
+.ipynb_checkpoints/
+.env
